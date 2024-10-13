@@ -1,1 +1,15 @@
 //Specific IDE configurations to help all developers have the same environment.//
+
+{
+    "editor.tabSize": 4,
+    "editor.rulers": [80, 120],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.meta": false
+    },
+    "csharp.format.enable": true,
+    "omnisharp.useGlobalMono": "always",
+    "omnisharp.path": "latest",
+    "unity.projectGenerationFlag": "all"
+}
