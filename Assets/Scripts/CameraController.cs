@@ -1,0 +1,1 @@
+//Script to make the camera follow the player//

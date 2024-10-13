@@ -1,0 +1,1 @@
+//Folders for animations (placeholder for Unity).//

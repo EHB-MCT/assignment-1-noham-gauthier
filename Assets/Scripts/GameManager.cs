@@ -1,0 +1,1 @@
+//Manages game states, scores, etc.//
